@@ -1,5 +1,5 @@
 # developer-roadmap-wiki
-@kamranahmedse 님의 [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap){:target="_blank"}의 개발자 로드맵을 참고하여 정리한 개발자를 위한 wiki 입니다.
+@kamranahmedse 님의 [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)의 개발자 로드맵을 참고하여 정리한 개발자를 위한 wiki 입니다.
 
 
 ## Java Roadmap
